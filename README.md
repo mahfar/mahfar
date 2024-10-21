@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋! <br>My name is Mahdieh and I'm a Python Programmer and AI Researcher, from Iran.</h3>
+<h3 align="left">My name is Mahdieh and I'm a Python Programmer and AI Researcher, from Iran.</h3>
 
 ###
 
